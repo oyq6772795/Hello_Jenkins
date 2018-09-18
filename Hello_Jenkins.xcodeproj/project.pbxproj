@@ -434,18 +434,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = A7FRU6ZJRL;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S58SG358PM;
 				INFOPLIST_FILE = Hello_Jenkins/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.yingzi.jenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yingzi.jenkinsTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "ff7b26f8-3d23-4c45-bc23-e8d898a1dd9e";
-				PROVISIONING_PROFILE_SPECIFIER = helloJenkins;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -455,18 +455,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = A7FRU6ZJRL;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S58SG358PM;
 				INFOPLIST_FILE = Hello_Jenkins/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.yingzi.jenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yingzi.jenkinsTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "ff7b26f8-3d23-4c45-bc23-e8d898a1dd9e";
-				PROVISIONING_PROFILE_SPECIFIER = helloJenkins;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
