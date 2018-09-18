@@ -434,7 +434,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A7FRU6ZJRL;
 				INFOPLIST_FILE = Hello_Jenkins/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -444,8 +444,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.yingzi.jenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "b45be6e3-0199-41d5-b18d-96b41e257342";
-				PROVISIONING_PROFILE_SPECIFIER = helloJenkins;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -455,7 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A7FRU6ZJRL;
 				INFOPLIST_FILE = Hello_Jenkins/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -465,8 +465,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.yingzi.jenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "b45be6e3-0199-41d5-b18d-96b41e257342";
-				PROVISIONING_PROFILE_SPECIFIER = helloJenkins;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
